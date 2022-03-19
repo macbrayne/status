@@ -3,10 +3,10 @@ repo: status
 
 sites:
   - name: Nextcloud
-    url: https://nextcloud.macbrayne.de
+    url: https://nextcloud.macbrayne.de?$SECRET
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
   - name: Reverse Proxy
-    url: https://proxy.macbrayne.de
+    url: https://proxy.macbrayne.de?$SECRET
   - name: FRACTAVA Website
     url: https://fractava.com
     icon: https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png
