@@ -5,18 +5,18 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 762,
-    "timeDay": 762,
-    "timeWeek": 762,
-    "timeMonth": 762,
-    "timeYear": 762,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 887,
+    "timeDay": 887,
+    "timeWeek": 887,
+    "timeMonth": 887,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2022-03-19": 31
+      "2022-03-19": 134
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 461,
-    "timeWeek": 461,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "time": 525,
+    "timeDay": 525,
+    "timeWeek": 525,
+    "timeMonth": 525,
+    "timeYear": 525,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 485,
-    "timeWeek": 485,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 495,
+    "timeDay": 495,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 147,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 148,
+    "timeDay": 148,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   }
 ]
