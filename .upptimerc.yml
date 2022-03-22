@@ -22,6 +22,7 @@ status-website:
   # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: macbrayne status
+  theme: ocean
   introTitle: "macbrayne services status"
   introMessage:
   navbar:
