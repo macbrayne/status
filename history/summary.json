@@ -5,11 +5,11 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "73.62%",
+    "uptime": "74.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.62%",
-    "uptimeYear": "73.62%",
+    "uptimeMonth": "74.51%",
+    "uptimeYear": "74.51%",
     "time": 1224,
     "timeDay": 1316,
     "timeWeek": 1276,
@@ -46,9 +46,9 @@
     "url": "https://fractava.com",
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,7 +57,9 @@
     "timeWeek": 482,
     "timeMonth": 490,
     "timeYear": 490,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-05": 0
+    }
   },
   {
     "name": "Minecraft Server",
