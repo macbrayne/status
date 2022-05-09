@@ -6,8 +6,8 @@
     "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1229,
@@ -15,9 +15,7 @@
     "timeWeek": 1141,
     "timeMonth": 1227,
     "timeYear": 1229,
-    "dailyMinutesDown": {
-      "2022-05-08": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reverse Proxy",
@@ -31,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 545,
-    "timeDay": 465,
+    "timeDay": 455,
     "timeWeek": 492,
     "timeMonth": 521,
     "timeYear": 545,
@@ -49,7 +47,7 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.50%",
     "time": 468,
-    "timeDay": 439,
+    "timeDay": 476,
     "timeWeek": 429,
     "timeMonth": 457,
     "timeYear": 468,
@@ -72,7 +70,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 113,
+    "timeDay": 120,
     "timeWeek": 129,
     "timeMonth": 134,
     "timeYear": 139,
