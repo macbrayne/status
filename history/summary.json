@@ -4,19 +4,19 @@
     "url": "https://nextcloud.macbrayne.de/login?$SECRET",
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054",
     "slug": "nextcloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1223,
-    "timeDay": 929,
-    "timeWeek": 1087,
-    "timeMonth": 1214,
-    "timeYear": 1223,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 1222,
+    "timeDay": 1018,
+    "timeWeek": 1089,
+    "timeMonth": 1211,
+    "timeYear": 1222,
     "dailyMinutesDown": {
-      "2022-05-11": 2
+      "2022-05-11": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://proxy.macbrayne.de?$SECRET",
     "icon": "https://favicons.githubusercontent.com/proxy.macbrayne.de",
     "slug": "reverse-proxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 722,
-    "timeWeek": 495,
-    "timeMonth": 527,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 546,
+    "timeDay": 593,
+    "timeWeek": 491,
+    "timeMonth": 525,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2022-05-11": 1
+      "2022-05-11": 11
     }
   },
   {
