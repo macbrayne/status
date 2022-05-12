@@ -5,19 +5,17 @@
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 1222,
-    "timeDay": 1018,
-    "timeWeek": 1089,
-    "timeMonth": 1211,
-    "timeYear": 1222,
-    "dailyMinutesDown": {
-      "2022-05-11": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1226,
+    "timeDay": 1312,
+    "timeWeek": 1135,
+    "timeMonth": 1217,
+    "timeYear": 1226,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reverse Proxy",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/proxy.macbrayne.de",
     "slug": "reverse-proxy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 546,
-    "timeDay": 593,
-    "timeWeek": 491,
-    "timeMonth": 525,
-    "timeYear": 546,
-    "dailyMinutesDown": {
-      "2022-05-11": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 549,
+    "timeDay": 624,
+    "timeWeek": 529,
+    "timeMonth": 535,
+    "timeYear": 549,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FRACTAVA Website",
@@ -51,9 +47,9 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.53%",
     "time": 469,
-    "timeDay": 596,
-    "timeWeek": 430,
-    "timeMonth": 463,
+    "timeDay": 482,
+    "timeWeek": 440,
+    "timeMonth": 466,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2022-05-08": 48,
@@ -74,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 204,
-    "timeWeek": 128,
-    "timeMonth": 137,
+    "timeDay": 155,
+    "timeWeek": 133,
+    "timeMonth": 138,
     "timeYear": 140,
     "dailyMinutesDown": {}
   }
