@@ -4,10 +4,10 @@
     "url": "https://nextcloud.macbrayne.de/login?$SECRET",
     "icon": "https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1229,
@@ -15,16 +15,18 @@
     "timeWeek": 1241,
     "timeMonth": 1195,
     "timeYear": 1229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 2
+    }
   },
   {
     "name": "Reverse Proxy",
     "url": "https://proxy.macbrayne.de?$SECRET",
     "icon": "https://favicons.githubusercontent.com/proxy.macbrayne.de",
     "slug": "reverse-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 670,
     "timeMonth": 547,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-17": 0
+    }
   },
   {
     "name": "FRACTAVA Website",
