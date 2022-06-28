@@ -5,6 +5,9 @@ sites:
   - name: Nextcloud
     url: https://nextcloud.macbrayne.de/login?$SECRET
     icon: https://nextcloud.com/wp-content/themes/next/assets/img/logo/logo_nextcloud_white.svg?x53054
+  - name: Editor
+    url: https://$EDITOR?$SECRET
+    icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png
   - name: Reverse Proxy
     url: https://proxy.macbrayne.de?$SECRET
   - name: FRACTAVA Website
