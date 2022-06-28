@@ -39,19 +39,17 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "0.79%",
-    "uptimeDay": "0.79%",
-    "uptimeWeek": "0.79%",
-    "uptimeMonth": "0.79%",
-    "uptimeYear": "0.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 569,
     "timeDay": 569,
     "timeWeek": 569,
     "timeMonth": 569,
     "timeYear": 569,
-    "dailyMinutesDown": {
-      "2022-06-28": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Reverse Proxy",
@@ -121,7 +119,7 @@
     "slug": "minecraft-server",
     "status": "up",
     "uptime": "68.19%",
-    "uptimeDay": "1.77%",
+    "uptimeDay": "1.78%",
     "uptimeWeek": "0.25%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "68.19%",
