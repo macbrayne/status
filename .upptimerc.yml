@@ -4,7 +4,7 @@ repo: status
 sites:
   - name: Nextcloud
     url: https://nextcloud.macbrayne.de/login?$SECRET
-    icon: https://apps.nextcloud.com/static/assets/img/logo_nextcloud_white.svg
+    icon: https://apps.nextcloud.com/static/assets/img/logo-icon.svg
   - name: Editor
     url: https://$EDITOR?$SECRET
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png
