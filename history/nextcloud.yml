@@ -1,7 +1,7 @@
 url: https://nextcloud.macbrayne.de/login?$SECRET
-status: up
-code: 200
-responseTime: 823
-lastUpdated: 2022-07-13T23:16:42.194Z
+status: down
+code: 500
+responseTime: 2242
+lastUpdated: 2022-07-14T10:29:44.346Z
 startTime: Sat Mar 19 2022 15:19:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
