@@ -1,7 +1,7 @@
 url: https://$EDITOR?$SECRET
 status: down
-code: 502
-responseTime: 482
-lastUpdated: 2023-03-17T23:13:58.067Z
+code: 523
+responseTime: 238
+lastUpdated: 2023-03-18T23:13:39.190Z
 startTime: Tue Jun 28 2022 22:07:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
