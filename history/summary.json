@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.49%",
-    "time": 1518,
-    "timeDay": 1861,
-    "timeWeek": 1958,
-    "timeMonth": 2299,
+    "time": 1517,
+    "timeDay": 1378,
+    "timeWeek": 1803,
+    "timeMonth": 2263,
     "timeYear": 1566,
     "dailyMinutesDown": {
       "2023-04-15": 66,
@@ -80,8 +80,7 @@
       "2022-06-16": 1440,
       "2022-06-15": 1440,
       "2022-06-14": 792,
-      "2022-05-27": 31,
-      "2022-05-20": 25
+      "2022-05-27": 31
     }
   },
   {
@@ -90,18 +89,17 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "86.05%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "86.05%",
+    "uptime": "86.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "86.06%",
     "time": 710,
-    "timeDay": 837,
-    "timeWeek": 768,
-    "timeMonth": 724,
+    "timeDay": 806,
+    "timeWeek": 755,
+    "timeMonth": 730,
     "timeYear": 710,
     "dailyMinutesDown": {
-      "2023-05-19": 12,
       "2023-04-15": 66,
       "2023-03-22": 794,
       "2023-03-21": 1440,
@@ -178,9 +176,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.06%",
     "time": 614,
-    "timeDay": 890,
-    "timeWeek": 734,
-    "timeMonth": 695,
+    "timeDay": 760,
+    "timeWeek": 720,
+    "timeMonth": 699,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2023-04-15": 66,
@@ -249,9 +247,9 @@
     "uptimeMonth": "92.47%",
     "uptimeYear": "97.29%",
     "time": 549,
-    "timeDay": 565,
-    "timeWeek": 454,
-    "timeMonth": 441,
+    "timeDay": 473,
+    "timeWeek": 449,
+    "timeMonth": 444,
     "timeYear": 562,
     "dailyMinutesDown": {
       "2023-05-17": 377,
@@ -308,15 +306,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "85.07%",
+    "uptime": "85.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "82.57%",
     "time": 178,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 204,
+    "timeDay": 258,
+    "timeWeek": 216,
+    "timeMonth": 206,
     "timeYear": 186,
     "dailyMinutesDown": {
       "2023-04-09": 20,
@@ -398,8 +396,7 @@
       "2022-05-30": 1440,
       "2022-05-29": 1440,
       "2022-05-28": 1440,
-      "2022-05-27": 383,
-      "2022-05-20": 23
+      "2022-05-27": 383
     }
   }
 ]
