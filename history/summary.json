@@ -5,16 +5,16 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "90.81%",
+    "uptime": "90.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.16%",
-    "time": 1548,
-    "timeDay": 2305,
-    "timeWeek": 2484,
-    "timeMonth": 2050,
-    "timeYear": 1635,
+    "uptimeYear": "90.31%",
+    "time": 1549,
+    "timeDay": 2351,
+    "timeWeek": 2468,
+    "timeMonth": 2080,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2023-04-15": 66,
       "2023-04-09": 132,
@@ -71,8 +71,7 @@
       "2022-06-29": 62,
       "2022-06-24": 1174,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -81,16 +80,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "87.29%",
+    "uptime": "87.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.29%",
-    "time": 712,
-    "timeDay": 568,
-    "timeWeek": 733,
-    "timeMonth": 735,
-    "timeYear": 712,
+    "uptimeYear": "87.31%",
+    "time": 711,
+    "timeDay": 456,
+    "timeWeek": 689,
+    "timeMonth": 726,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2023-04-15": 66,
       "2023-03-22": 794,
@@ -162,16 +161,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.macbrayne.de.ico",
     "slug": "reverse-proxy",
     "status": "up",
-    "uptime": "92.07%",
+    "uptime": "92.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.72%",
-    "time": 619,
-    "timeDay": 530,
-    "timeWeek": 648,
-    "timeMonth": 693,
-    "timeYear": 634,
+    "uptimeYear": "91.87%",
+    "time": 618,
+    "timeDay": 473,
+    "timeWeek": 609,
+    "timeMonth": 681,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2023-04-15": 66,
       "2023-03-22": 197,
@@ -216,8 +215,7 @@
       "2022-06-29": 62,
       "2022-06-24": 1163,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -231,10 +229,10 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "96.63%",
     "uptimeYear": "97.27%",
-    "time": 556,
-    "timeDay": 491,
-    "timeWeek": 464,
-    "timeMonth": 638,
+    "time": 555,
+    "timeDay": 490,
+    "timeWeek": 454,
+    "timeMonth": 640,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2023-06-20": 35,
@@ -284,8 +282,7 @@
       "2022-08-10": 37,
       "2022-08-06": 22,
       "2022-07-29": 59,
-      "2022-07-28": 310,
-      "2022-06-21": 217
+      "2022-07-28": 310
     }
   },
   {
@@ -294,14 +291,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "86.10%",
+    "uptime": "86.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.09%",
+    "uptimeYear": "89.24%",
     "time": 179,
-    "timeDay": 112,
-    "timeWeek": 181,
+    "timeDay": 155,
+    "timeWeek": 171,
     "timeMonth": 192,
     "timeYear": 188,
     "dailyMinutesDown": {
@@ -358,8 +355,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   }
 ]
