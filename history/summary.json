@@ -5,16 +5,16 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "93.30%",
+    "uptime": "93.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.07%",
+    "uptimeYear": "93.35%",
     "time": 1818,
-    "timeDay": 2243,
-    "timeWeek": 2014,
-    "timeMonth": 2078,
-    "timeYear": 1959,
+    "timeDay": 2234,
+    "timeWeek": 2226,
+    "timeMonth": 2076,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2023-09-05": 27,
       "2023-08-26": 16,
@@ -54,8 +54,7 @@
       "2023-01-02": 113,
       "2022-12-23": 21,
       "2022-12-11": 1341,
-      "2022-12-10": 1440,
-      "2022-12-09": 1440
+      "2022-12-10": 1440
     }
   },
   {
@@ -64,16 +63,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "88.37%",
+    "uptime": "88.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.16%",
-    "uptimeYear": "83.54%",
+    "uptimeYear": "83.81%",
     "time": 683,
-    "timeDay": 474,
-    "timeWeek": 526,
+    "timeDay": 473,
+    "timeWeek": 536,
     "timeMonth": 574,
-    "timeYear": 736,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2023-12-01": 329,
       "2023-11-16": 40,
@@ -148,8 +147,7 @@
       "2022-12-13": 854,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
-      "2022-12-10": 1440,
-      "2022-12-09": 1440
+      "2022-12-10": 1440
     }
   },
   {
@@ -158,16 +156,16 @@
     "icon": "https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/nginx-proxy-manager-icon.png",
     "slug": "reverse-proxy",
     "status": "up",
-    "uptime": "91.72%",
+    "uptime": "91.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "88.92%",
+    "uptimeYear": "89.19%",
     "time": 619,
-    "timeDay": 491,
-    "timeWeek": 530,
-    "timeMonth": 536,
-    "timeYear": 650,
+    "timeDay": 519,
+    "timeWeek": 525,
+    "timeMonth": 537,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2023-12-01": 24,
       "2023-09-21": 57,
@@ -221,8 +219,7 @@
       "2023-01-16": 23,
       "2023-01-13": 21,
       "2022-12-11": 1321,
-      "2022-12-10": 1440,
-      "2022-12-09": 1440
+      "2022-12-10": 1440
     }
   },
   {
@@ -237,12 +234,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 590,
-    "timeDay": 534,
-    "timeWeek": 542,
-    "timeMonth": 573,
+    "timeDay": 515,
+    "timeWeek": 546,
+    "timeMonth": 574,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-12-08": 62,
+      "2023-12-09": 60,
+      "2023-12-08": 1440,
       "2023-12-07": 1440,
       "2023-12-06": 1440,
       "2023-12-05": 1440,
@@ -346,14 +344,14 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.19%",
     "time": 553,
-    "timeDay": 346,
-    "timeWeek": 445,
+    "timeDay": 376,
+    "timeWeek": 440,
     "timeMonth": 440,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -416,14 +414,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "82.71%",
+    "uptime": "82.74%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "80.73%",
-    "uptimeYear": "79.32%",
+    "uptimeYear": "79.59%",
     "time": 185,
-    "timeDay": 173,
-    "timeWeek": 167,
+    "timeDay": 149,
+    "timeWeek": 160,
     "timeMonth": 169,
     "timeYear": 190,
     "dailyMinutesDown": {
@@ -515,8 +513,7 @@
       "2022-12-13": 854,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
-      "2022-12-10": 1440,
-      "2022-12-09": 1440
+      "2022-12-10": 1440
     }
   }
 ]
