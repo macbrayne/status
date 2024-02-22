@@ -5,18 +5,17 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "94.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "94.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.04%",
     "time": 1981,
     "timeDay": 2220,
-    "timeWeek": 2021,
+    "timeWeek": 1977,
     "timeMonth": 2336,
-    "timeYear": 2195,
+    "timeYear": 2196,
     "dailyMinutesDown": {
-      "2024-02-21": 8,
       "2023-12-21": 172,
       "2023-09-05": 27,
       "2023-08-26": 16,
@@ -34,8 +33,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 44,
       "2023-02-24": 738,
-      "2023-02-23": 1440,
-      "2023-02-22": 291
+      "2023-02-23": 1440
     }
   },
   {
@@ -44,18 +42,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "down",
-    "uptime": "89.64%",
+    "uptime": "89.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.22%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "87.66%",
+    "uptimeWeek": "83.20%",
+    "uptimeMonth": "96.13%",
+    "uptimeYear": "87.64%",
     "time": 711,
     "timeDay": 473,
-    "timeWeek": 686,
+    "timeWeek": 689,
     "timeMonth": 595,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2024-02-21": 1394,
+      "2024-02-22": 57,
+      "2024-02-21": 1440,
       "2024-02-20": 197,
       "2023-12-21": 171,
       "2023-12-01": 329,
@@ -107,8 +106,7 @@
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 412
+      "2023-02-23": 1440
     }
   },
   {
@@ -124,7 +122,7 @@
     "uptimeYear": "92.82%",
     "time": 631,
     "timeDay": 468,
-    "timeWeek": 565,
+    "timeWeek": 552,
     "timeMonth": 552,
     "timeYear": 605,
     "dailyMinutesDown": {
@@ -162,8 +160,7 @@
       "2023-03-01": 1440,
       "2023-02-28": 41,
       "2023-02-24": 738,
-      "2023-02-23": 1440,
-      "2023-02-22": 248
+      "2023-02-23": 1440
     }
   },
   {
@@ -179,11 +176,12 @@
     "uptimeYear": "0.00%",
     "time": 583,
     "timeDay": 507,
-    "timeWeek": 594,
+    "timeWeek": 575,
     "timeMonth": 562,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2024-02-21": 1394,
+      "2024-02-22": 57,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -366,14 +364,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.81%",
+    "uptimeYear": "80.79%",
     "time": 540,
     "timeDay": 340,
-    "timeWeek": 456,
+    "timeWeek": 439,
     "timeMonth": 450,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-02-21": 1394,
+      "2024-02-22": 57,
+      "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
@@ -492,18 +491,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "84.27%",
+    "uptime": "84.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.22%",
-    "uptimeMonth": "96.37%",
+    "uptimeWeek": "83.20%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "83.18%",
     "time": 179,
     "timeDay": 0,
-    "timeWeek": 144,
+    "timeWeek": 139,
     "timeMonth": 130,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-02-21": 1394,
+      "2024-02-22": 57,
+      "2024-02-21": 1440,
       "2024-02-20": 197,
       "2024-01-14": 56,
       "2024-01-09": 766,
@@ -574,8 +574,7 @@
       "2023-02-28": 39,
       "2023-02-25": 921,
       "2023-02-24": 1440,
-      "2023-02-23": 1440,
-      "2023-02-22": 1045
+      "2023-02-23": 1440
     }
   }
 ]
