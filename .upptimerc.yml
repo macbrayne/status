@@ -12,7 +12,7 @@ sites:
     url: https://proxy.macbrayne.de?$SECRET
     icon: https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/nginx-proxy-manager-icon.png
   - name: Image Hosting
-    url: https://i.macbrayne.de?$SECRET
+    url: https://i.macbrayne.de$URL?$SECRET
     icon: https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/xbackbone-logo.png
   - name: FRACTAVA Website
     url: https://fractava.com
