@@ -5,18 +5,19 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "88.77%",
+    "uptime": "88.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.90%",
-    "time": 2201,
-    "timeDay": 722,
-    "timeWeek": 673,
-    "timeMonth": 684,
-    "timeYear": 2235,
+    "uptimeYear": "83.62%",
+    "time": 2197,
+    "timeDay": 488,
+    "timeWeek": 655,
+    "timeMonth": 678,
+    "timeYear": 2230,
     "dailyMinutesDown": {
-      "2024-09-03": 71,
+      "2024-09-04": 72,
+      "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -79,8 +80,7 @@
       "2024-06-11": 999,
       "2024-06-05": 31,
       "2024-04-13": 26,
-      "2023-12-21": 172,
-      "2023-09-05": 27
+      "2023-12-21": 172
     }
   },
   {
@@ -89,15 +89,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "89.14%",
+    "uptime": "89.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.99%",
-    "time": 618,
-    "timeDay": 687,
-    "timeWeek": 658,
-    "timeMonth": 669,
+    "time": 617,
+    "timeDay": 686,
+    "timeWeek": 670,
+    "timeMonth": 670,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2024-06-12": 1240,
@@ -131,8 +131,7 @@
       "2023-12-21": 171,
       "2023-12-01": 329,
       "2023-11-16": 40,
-      "2023-09-21": 57,
-      "2023-09-05": 26
+      "2023-09-21": 57
     }
   },
   {
@@ -146,10 +145,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.38%",
-    "time": 589,
-    "timeDay": 690,
-    "timeWeek": 683,
-    "timeMonth": 672,
+    "time": 588,
+    "timeDay": 460,
+    "timeWeek": 660,
+    "timeMonth": 666,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2024-06-12": 1193,
@@ -158,8 +157,7 @@
       "2024-04-13": 73,
       "2023-12-21": 169,
       "2023-12-01": 24,
-      "2023-09-21": 57,
-      "2023-09-05": 24
+      "2023-09-21": 57
     }
   },
   {
@@ -179,7 +177,8 @@
     "timeMonth": 0,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2024-09-03": 71,
+      "2024-09-04": 72,
+      "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -542,8 +541,7 @@
       "2023-09-09": 1440,
       "2023-09-08": 1440,
       "2023-09-07": 1440,
-      "2023-09-06": 1440,
-      "2023-09-05": 1440
+      "2023-09-06": 1440
     }
   },
   {
@@ -552,18 +550,19 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "69.77%",
+    "uptime": "69.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.04%",
+    "uptimeYear": "28.77%",
     "time": 482,
-    "timeDay": 566,
-    "timeWeek": 469,
-    "timeMonth": 489,
+    "timeDay": 373,
+    "timeWeek": 472,
+    "timeMonth": 487,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2024-09-03": 71,
+      "2024-09-04": 72,
+      "2024-09-03": 1440,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -833,8 +832,7 @@
       "2023-09-30": 90,
       "2023-09-21": 66,
       "2023-09-17": 58,
-      "2023-09-13": 89,
-      "2023-09-05": 156
+      "2023-09-13": 89
     }
   },
   {
@@ -843,13 +841,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "75.22%",
+    "uptime": "75.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.54%",
+    "uptimeYear": "56.82%",
     "time": 157,
-    "timeDay": 168,
+    "timeDay": 99,
     "timeWeek": 129,
     "timeMonth": 131,
     "timeYear": 143,
