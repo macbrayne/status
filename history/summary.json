@@ -5,18 +5,19 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "87.22%",
+    "uptime": "87.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.52%",
-    "time": 2150,
-    "timeDay": 481,
-    "timeWeek": 570,
-    "timeMonth": 647,
-    "timeYear": 2173,
+    "uptimeYear": "79.25%",
+    "time": 2146,
+    "timeDay": 471,
+    "timeWeek": 575,
+    "timeMonth": 643,
+    "timeYear": 2171,
     "dailyMinutesDown": {
-      "2024-09-19": 74,
+      "2024-09-20": 74,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -104,15 +105,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "89.36%",
+    "uptime": "89.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.00%",
     "time": 614,
-    "timeDay": 498,
-    "timeWeek": 588,
-    "timeMonth": 649,
+    "timeDay": 482,
+    "timeWeek": 591,
+    "timeMonth": 646,
     "timeYear": 600,
     "dailyMinutesDown": {
       "2024-06-12": 1240,
@@ -145,8 +146,7 @@
       "2024-02-20": 197,
       "2023-12-21": 171,
       "2023-12-01": 329,
-      "2023-11-16": 40,
-      "2023-09-21": 57
+      "2023-11-16": 40
     }
   },
   {
@@ -155,15 +155,15 @@
     "icon": "https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/nginx-proxy-manager-icon.png",
     "slug": "reverse-proxy",
     "status": "up",
-    "uptime": "94.07%",
+    "uptime": "94.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 585,
-    "timeDay": 506,
-    "timeWeek": 635,
-    "timeMonth": 650,
+    "time": 584,
+    "timeDay": 489,
+    "timeWeek": 613,
+    "timeMonth": 651,
     "timeYear": 571,
     "dailyMinutesDown": {
       "2024-06-12": 1193,
@@ -171,8 +171,7 @@
       "2024-04-14": 711,
       "2024-04-13": 73,
       "2023-12-21": 169,
-      "2023-12-01": 24,
-      "2023-09-21": 57
+      "2023-12-01": 24
     }
   },
   {
@@ -190,9 +189,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 584,
+    "timeYear": 585,
     "dailyMinutesDown": {
-      "2024-09-19": 74,
+      "2024-09-20": 74,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -555,8 +555,7 @@
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
-      "2023-09-22": 1440,
-      "2023-09-21": 1440
+      "2023-09-22": 1440
     }
   },
   {
@@ -565,18 +564,19 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "68.55%",
+    "uptime": "68.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.72%",
-    "time": 455,
-    "timeDay": 432,
-    "timeWeek": 444,
-    "timeMonth": 459,
+    "uptimeYear": "24.44%",
+    "time": 454,
+    "timeDay": 416,
+    "timeWeek": 445,
+    "timeMonth": 458,
     "timeYear": 453,
     "dailyMinutesDown": {
-      "2024-09-19": 74,
+      "2024-09-20": 74,
+      "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -859,8 +859,7 @@
       "2023-10-21": 26,
       "2023-10-04": 21,
       "2023-10-03": 218,
-      "2023-09-30": 90,
-      "2023-09-21": 66
+      "2023-09-30": 90
     }
   },
   {
@@ -869,15 +868,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "75.65%",
+    "uptime": "75.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.88%",
+    "uptimeYear": "60.15%",
     "time": 152,
     "timeDay": 102,
     "timeWeek": 114,
-    "timeMonth": 120,
+    "timeMonth": 119,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2024-06-12": 1213,
@@ -1028,8 +1027,7 @@
       "2023-09-25": 1440,
       "2023-09-24": 1440,
       "2023-09-23": 1440,
-      "2023-09-22": 1440,
-      "2023-09-21": 1440
+      "2023-09-22": 1440
     }
   }
 ]
