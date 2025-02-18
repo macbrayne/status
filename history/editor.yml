@@ -1,7 +1,7 @@
 url: https://$EDITOR?$SECRET
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-18T19:33:40.069Z
+status: up
+code: 200
+responseTime: 703
+lastUpdated: 2025-02-18T19:42:20.930Z
 startTime: 2022-06-28T22:07:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
