@@ -5,18 +5,17 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "85.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "99.38%",
+    "uptime": "85.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "70.37%",
-    "time": 2504,
-    "timeDay": 3233,
-    "timeWeek": 3280,
-    "timeMonth": 3392,
-    "timeYear": 2655,
+    "time": 2502,
+    "timeDay": 2489,
+    "timeWeek": 3087,
+    "timeMonth": 3326,
+    "timeYear": 2652,
     "dailyMinutesDown": {
-      "2025-02-22": 12,
       "2025-02-19": 246,
       "2025-02-17": 16,
       "2024-12-27": 73,
@@ -148,11 +147,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.57%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "88.67%",
+    "uptimeYear": "88.70%",
     "time": 634,
-    "timeDay": 689,
-    "timeWeek": 622,
-    "timeMonth": 617,
+    "timeDay": 634,
+    "timeWeek": 615,
+    "timeMonth": 616,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2025-02-19": 244,
@@ -198,8 +197,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -213,11 +211,11 @@
     "uptimeWeek": "97.59%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "96.55%",
-    "time": 618,
-    "timeDay": 622,
+    "time": 619,
+    "timeDay": 590,
     "timeWeek": 592,
-    "timeMonth": 612,
-    "timeYear": 643,
+    "timeMonth": 611,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-02-19": 243,
       "2024-12-27": 60,
@@ -256,9 +254,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 597,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-02-22": 1372,
+      "2025-02-23": 82,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -621,8 +620,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -631,18 +629,19 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "58.51%",
+    "uptime": "58.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 460,
-    "timeDay": 439,
-    "timeWeek": 445,
-    "timeMonth": 481,
+    "timeDay": 411,
+    "timeWeek": 439,
+    "timeMonth": 479,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2025-02-22": 1372,
+      "2025-02-23": 82,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1005,8 +1004,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -1018,15 +1016,16 @@
     "uptime": "75.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.49%",
+    "uptimeMonth": "37.15%",
     "uptimeYear": "60.04%",
-    "time": 133,
+    "time": 132,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 134,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-02-22": 1372,
+      "2025-02-23": 82,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -1172,8 +1171,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   }
 ]
