@@ -5,16 +5,16 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "86.00%",
+    "uptime": "86.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.56%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "70.37%",
-    "time": 2511,
-    "timeDay": 3967,
-    "timeWeek": 3218,
-    "timeMonth": 3319,
-    "timeYear": 2660,
+    "time": 2516,
+    "timeDay": 4350,
+    "timeWeek": 3209,
+    "timeMonth": 3336,
+    "timeYear": 2665,
     "dailyMinutesDown": {
       "2025-02-19": 246,
       "2025-02-17": 16,
@@ -143,16 +143,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "89.23%",
+    "uptime": "89.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.57%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
-    "uptimeYear": "89.52%",
+    "uptimeYear": "89.79%",
     "time": 634,
-    "timeDay": 570,
-    "timeWeek": 609,
-    "timeMonth": 615,
-    "timeYear": 648,
+    "timeDay": 751,
+    "timeWeek": 629,
+    "timeMonth": 619,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2025-02-19": 244,
       "2024-12-27": 1129,
@@ -193,8 +193,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -205,13 +204,13 @@
     "status": "up",
     "uptime": "93.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.59%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "96.55%",
     "time": 619,
-    "timeDay": 573,
-    "timeWeek": 599,
-    "timeMonth": 608,
+    "timeDay": 645,
+    "timeWeek": 605,
+    "timeMonth": 610,
     "timeYear": 644,
     "dailyMinutesDown": {
       "2025-02-19": 243,
@@ -251,9 +250,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 597,
+    "timeYear": 598,
     "dailyMinutesDown": {
-      "2025-02-26": 78,
+      "2025-02-27": 79,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -616,8 +616,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -626,18 +625,19 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "58.34%",
+    "uptime": "58.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 460,
-    "timeDay": 434,
-    "timeWeek": 432,
-    "timeMonth": 472,
-    "timeYear": 464,
+    "timeDay": 562,
+    "timeWeek": 452,
+    "timeMonth": 476,
+    "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-02-26": 78,
+      "2025-02-27": 79,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -1000,8 +1000,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -1010,18 +1009,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "75.74%",
+    "uptime": "75.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "27.29%",
+    "uptimeMonth": "24.00%",
     "uptimeYear": "60.04%",
     "time": 132,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 135,
+    "timeMonth": 137,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-02-26": 78,
+      "2025-02-27": 79,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -1167,8 +1167,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   }
 ]
