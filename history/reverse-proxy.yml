@@ -1,7 +1,7 @@
 url: https://proxy.macbrayne.de?$SECRET
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-10T23:20:57.340Z
+status: up
+code: 200
+responseTime: 570
+lastUpdated: 2025-05-11T11:18:43.941Z
 startTime: 2022-03-19T15:19:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
