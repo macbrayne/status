@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "52.36%",
     "uptimeYear": "66.40%",
-    "time": 2784,
-    "timeDay": 4233,
-    "timeWeek": 4307,
-    "timeMonth": 3559,
-    "timeYear": 2919,
+    "time": 2789,
+    "timeDay": 4286,
+    "timeWeek": 4298,
+    "timeMonth": 3565,
+    "timeYear": 2926,
     "dailyMinutesDown": {
       "2025-05-11": 720,
       "2025-05-10": 1333,
@@ -159,18 +159,17 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "89.31%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "71.56%",
+    "uptime": "89.32%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "71.59%",
     "uptimeYear": "92.19%",
-    "time": 696,
-    "timeDay": 1193,
-    "timeWeek": 824,
-    "timeMonth": 1339,
+    "time": 695,
+    "timeDay": 1187,
+    "timeWeek": 817,
+    "timeMonth": 1340,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-05-25": 12,
       "2025-05-11": 743,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
@@ -218,10 +217,10 @@
     "uptimeMonth": "71.64%",
     "uptimeYear": "94.34%",
     "time": 677,
-    "timeDay": 516,
-    "timeWeek": 627,
-    "timeMonth": 1228,
-    "timeYear": 714,
+    "timeDay": 605,
+    "timeWeek": 618,
+    "timeMonth": 1231,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2025-05-11": 720,
       "2025-05-10": 1440,
@@ -264,13 +263,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 586,
+    "time": 585,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 577,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2025-05-25": 1370,
+      "2025-05-26": 99,
+      "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -633,8 +633,7 @@
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
-      "2024-05-27": 1440,
-      "2024-05-26": 1440
+      "2024-05-27": 1440
     }
   },
   {
@@ -648,13 +647,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 468,
-    "timeDay": 561,
-    "timeWeek": 513,
+    "time": 467,
+    "timeDay": 444,
+    "timeWeek": 503,
     "timeMonth": 490,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-05-25": 1370,
+      "2025-05-26": 99,
+      "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -1017,8 +1017,7 @@
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
-      "2024-05-27": 1440,
-      "2024-05-26": 1440
+      "2024-05-27": 1440
     }
   },
   {
@@ -1027,7 +1026,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "69.95%",
+    "uptime": "69.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1038,7 +1037,8 @@
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-05-25": 1370,
+      "2025-05-26": 99,
+      "2025-05-25": 1440,
       "2025-05-24": 1440,
       "2025-05-23": 1440,
       "2025-05-22": 1440,
@@ -1184,8 +1184,7 @@
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
-      "2024-05-27": 1440,
-      "2024-05-26": 1440
+      "2024-05-27": 1440
     }
   }
 ]
