@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "90.06%",
-    "time": 3815,
-    "timeDay": 1675,
-    "timeWeek": 2195,
-    "timeMonth": 2408,
-    "timeYear": 3848,
+    "time": 3811,
+    "timeDay": 1801,
+    "timeWeek": 2193,
+    "timeMonth": 2406,
+    "timeYear": 3843,
     "dailyMinutesDown": {
       "2026-03-17": 58,
       "2026-01-17": 24,
@@ -74,16 +74,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "up",
-    "uptime": "86.17%",
+    "uptime": "86.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "76.31%",
     "time": 1400,
-    "timeDay": 468,
-    "timeWeek": 567,
-    "timeMonth": 1184,
-    "timeYear": 1629,
+    "timeDay": 476,
+    "timeWeek": 552,
+    "timeMonth": 1180,
+    "timeYear": 1628,
     "dailyMinutesDown": {
       "2026-03-17": 57,
       "2026-01-17": 23,
@@ -194,9 +194,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "91.67%",
     "time": 1375,
-    "timeDay": 492,
-    "timeWeek": 530,
-    "timeMonth": 1169,
+    "timeDay": 424,
+    "timeWeek": 505,
+    "timeMonth": 1164,
     "timeYear": 1583,
     "dailyMinutesDown": {
       "2026-03-17": 56,
@@ -259,7 +259,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 156,
+      "2026-04-13": 161,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -622,8 +623,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -632,7 +632,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "42.22%",
+    "uptime": "42.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -643,7 +643,8 @@
     "timeMonth": 0,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2026-04-12": 156,
+      "2026-04-13": 161,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -1006,8 +1007,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   },
   {
@@ -1016,7 +1016,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "54.82%",
+    "uptime": "54.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1027,7 +1027,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-12": 156,
+      "2026-04-13": 161,
+      "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
@@ -1390,8 +1391,7 @@
       "2025-04-17": 1440,
       "2025-04-16": 1440,
       "2025-04-15": 1440,
-      "2025-04-14": 1440,
-      "2025-04-13": 1440
+      "2025-04-14": 1440
     }
   }
 ]
