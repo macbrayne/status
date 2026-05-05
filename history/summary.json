@@ -5,16 +5,16 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "87.61%",
+    "uptime": "87.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.03%",
-    "time": 3711,
-    "timeDay": 1897,
-    "timeWeek": 1631,
-    "timeMonth": 1914,
-    "timeYear": 3793,
+    "uptimeYear": "92.30%",
+    "time": 3709,
+    "timeDay": 2443,
+    "timeWeek": 1859,
+    "timeMonth": 1935,
+    "timeYear": 3791,
     "dailyMinutesDown": {
       "2026-03-17": 58,
       "2026-01-17": 24,
@@ -54,8 +54,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -64,18 +63,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "down",
-    "uptime": "86.20%",
+    "uptime": "86.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "62.43%",
-    "uptimeMonth": "91.35%",
+    "uptimeWeek": "48.22%",
+    "uptimeMonth": "88.09%",
     "uptimeYear": "75.93%",
     "time": 1400,
-    "timeDay": 613,
-    "timeWeek": 621,
-    "timeMonth": 586,
-    "timeYear": 1605,
+    "timeDay": 670,
+    "timeWeek": 625,
+    "timeMonth": 592,
+    "timeYear": 1599,
     "dailyMinutesDown": {
-      "2026-05-04": 171,
+      "2026-05-05": 163,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 736,
@@ -169,8 +169,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -179,16 +178,16 @@
     "icon": "https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/nginx-proxy-manager-icon.png",
     "slug": "reverse-proxy",
     "status": "up",
-    "uptime": "93.68%",
+    "uptime": "93.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.01%",
+    "uptimeYear": "92.28%",
     "time": 1373,
-    "timeDay": 578,
-    "timeWeek": 597,
-    "timeMonth": 548,
-    "timeYear": 1567,
+    "timeDay": 530,
+    "timeWeek": 573,
+    "timeMonth": 550,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2026-03-17": 56,
       "2026-01-17": 22,
@@ -226,8 +225,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -247,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 171,
+      "2026-05-05": 163,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -610,8 +609,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -620,7 +618,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "41.61%",
+    "uptime": "41.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -631,7 +629,8 @@
     "timeMonth": 0,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2026-05-04": 172,
+      "2026-05-05": 163,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -994,8 +993,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -1004,7 +1002,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "54.01%",
+    "uptime": "53.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1015,7 +1013,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-04": 172,
+      "2026-05-05": 163,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -1378,8 +1377,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   }
 ]
