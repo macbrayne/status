@@ -5,18 +5,19 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "down",
-    "uptime": "87.55%",
+    "uptime": "87.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.91%",
-    "uptimeMonth": "95.38%",
+    "uptimeWeek": "65.67%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "92.74%",
-    "time": 3691,
-    "timeDay": 60,
-    "timeWeek": 1091,
-    "timeMonth": 1674,
-    "timeYear": 3760,
+    "time": 3684,
+    "timeDay": 17,
+    "timeWeek": 855,
+    "timeMonth": 1616,
+    "timeYear": 3752,
     "dailyMinutesDown": {
-      "2026-05-08": 174,
+      "2026-05-09": 169,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 411,
       "2026-03-17": 58,
@@ -53,8 +54,7 @@
       "2025-06-22": 520,
       "2025-05-31": 20,
       "2025-05-11": 720,
-      "2025-05-10": 1333,
-      "2025-05-09": 1440
+      "2025-05-10": 1333
     }
   },
   {
@@ -63,18 +63,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "down",
-    "uptime": "85.95%",
+    "uptime": "85.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.27%",
-    "uptimeMonth": "78.20%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "74.92%",
     "uptimeYear": "75.93%",
-    "time": 1398,
-    "timeDay": 60,
-    "timeWeek": 485,
-    "timeMonth": 564,
-    "timeYear": 1576,
+    "time": 1397,
+    "timeDay": 17,
+    "timeWeek": 374,
+    "timeMonth": 549,
+    "timeYear": 1567,
     "dailyMinutesDown": {
-      "2026-05-08": 174,
+      "2026-05-09": 169,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -168,8 +169,7 @@
       "2025-06-23": 1440,
       "2025-06-22": 620,
       "2025-05-11": 743,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   },
   {
@@ -178,18 +178,19 @@
     "icon": "https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/nginx-proxy-manager-icon.png",
     "slug": "reverse-proxy",
     "status": "down",
-    "uptime": "93.61%",
+    "uptime": "93.55%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "79.92%",
-    "uptimeMonth": "95.38%",
+    "uptimeWeek": "65.68%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "92.72%",
-    "time": 1369,
-    "timeDay": 61,
-    "timeWeek": 371,
-    "timeMonth": 502,
-    "timeYear": 1535,
+    "time": 1368,
+    "timeDay": 18,
+    "timeWeek": 298,
+    "timeMonth": 488,
+    "timeYear": 1527,
     "dailyMinutesDown": {
-      "2026-05-08": 174,
+      "2026-05-09": 169,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 411,
       "2026-03-17": 56,
@@ -224,8 +225,7 @@
       "2025-06-23": 571,
       "2025-06-22": 489,
       "2025-05-11": 720,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   },
   {
@@ -245,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-08": 174,
+      "2026-05-09": 169,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -608,8 +609,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   },
   {
@@ -618,7 +618,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "41.50%",
+    "uptime": "41.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -629,7 +629,8 @@
     "timeMonth": 0,
     "timeYear": 542,
     "dailyMinutesDown": {
-      "2026-05-08": 174,
+      "2026-05-09": 169,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -992,8 +993,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   },
   {
@@ -1002,7 +1002,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "53.87%",
+    "uptime": "53.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1013,7 +1013,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-08": 174,
+      "2026-05-09": 169,
+      "2026-05-08": 1440,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -1376,8 +1377,7 @@
       "2025-05-13": 1440,
       "2025-05-12": 1440,
       "2025-05-11": 1440,
-      "2025-05-10": 1440,
-      "2025-05-09": 1440
+      "2025-05-10": 1440
     }
   }
 ]
