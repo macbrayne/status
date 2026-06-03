@@ -5,16 +5,16 @@
     "icon": "https://apps.nextcloud.com/static/assets/img/logo-icon.svg",
     "slug": "nextcloud",
     "status": "up",
-    "uptime": "86.80%",
+    "uptime": "86.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "47.23%",
     "uptimeYear": "89.64%",
-    "time": 3567,
-    "timeDay": 2152,
-    "timeWeek": 2329,
-    "timeMonth": 983,
-    "timeYear": 3552,
+    "time": 3564,
+    "timeDay": 2498,
+    "timeWeek": 2356,
+    "timeMonth": 1036,
+    "timeYear": 3548,
     "dailyMinutesDown": {
       "2025-06-22": 520,
       "2025-06-24": 1424,
@@ -73,14 +73,14 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png",
     "slug": "editor",
     "status": "down",
-    "uptime": "84.45%",
+    "uptime": "84.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.00%",
+    "uptimeYear": "69.72%",
     "time": 1374,
-    "timeDay": 140,
-    "timeWeek": 413,
+    "timeDay": 492,
+    "timeWeek": 432,
     "timeMonth": 225,
     "timeYear": 1539,
     "dailyMinutesDown": {
@@ -169,7 +169,8 @@
       "2025-10-07": 104,
       "2026-01-17": 23,
       "2026-03-17": 57,
-      "2026-06-02": 238,
+      "2026-06-03": 246,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -215,10 +216,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "47.23%",
     "uptimeYear": "89.63%",
-    "time": 1350,
-    "timeDay": 465,
-    "timeWeek": 569,
-    "timeMonth": 278,
+    "time": 1348,
+    "timeDay": 634,
+    "timeWeek": 593,
+    "timeMonth": 282,
     "timeYear": 1500,
     "dailyMinutesDown": {
       "2025-06-22": 489,
@@ -288,7 +289,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 238,
+      "2026-06-03": 246,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -651,8 +653,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -661,7 +662,7 @@
     "icon": "https://raw.githubusercontent.com/fractava/resources/master/Logos/Symbol/gro%C3%9F/transparenter%20Hintergrund/Farbe%20weiß.png",
     "slug": "fractava-website",
     "status": "down",
-    "uptime": "40.82%",
+    "uptime": "40.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -670,9 +671,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 547,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2026-06-02": 238,
+      "2026-06-03": 246,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -1035,8 +1037,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -1045,18 +1046,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "minecraft-server",
     "status": "down",
-    "uptime": "52.99%",
+    "uptime": "52.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 140,
+    "time": 139,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-02": 238,
+      "2026-06-03": 246,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -1419,8 +1421,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   }
 ]
